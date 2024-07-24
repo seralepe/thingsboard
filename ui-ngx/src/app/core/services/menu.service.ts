@@ -850,55 +850,55 @@ export class MenuService {
         path: '/alarms',
         icon: 'mdi:alert-outline'
       },
-      {
-        id: 'dashboards',
-        name: 'dashboard.dashboards',
-        type: 'link',
-        path: '/dashboards',
-        icon: 'dashboards'
-      },
-      {
-        id: 'entities',
-        name: 'entity.entities',
-        type: 'toggle',
-        path: '/entities',
-        icon: 'category',
-        pages: [
-          {
-            id: 'devices',
-            name: 'device.devices',
-            type: 'link',
-            path: '/entities/devices',
-            icon: 'devices_other'
-          },
-          {
-            id: 'assets',
-            name: 'asset.assets',
-            type: 'link',
-            path: '/entities/assets',
-            icon: 'domain'
-          },
-          {
-            id: 'entity_views',
-            name: 'entity-view.entity-views',
-            type: 'link',
-            path: '/entities/entityViews',
-            icon: 'view_quilt'
-          }
-        ]
-      }
+      //{
+      //  id: 'dashboards',
+      //  name: 'dashboard.dashboards',
+      //  type: 'link',
+      //  path: '/dashboards',
+      //  icon: 'dashboards'
+      //},
+      //{
+      //  id: 'entities',
+      //  name: 'entity.entities',
+      //  type: 'toggle',
+      //  path: '/entities',
+      //  icon: 'category',
+      //  pages: [
+      //    {
+      //      id: 'devices',
+      //      name: 'device.devices',
+      //      type: 'link',
+      //      path: '/entities/devices',
+      //      icon: 'devices_other'
+      //    },
+      //    {
+      //      id: 'assets',
+      //      name: 'asset.assets',
+      //      type: 'link',
+      //      path: '/entities/assets',
+      //      icon: 'domain'
+      //    },
+      //    {
+      //      id: 'entity_views',
+      //      name: 'entity-view.entity-views',
+      //      type: 'link',
+      //      path: '/entities/entityViews',
+      //      icon: 'view_quilt'
+      //    }
+      //  ]
+      //}
     );
     if (authState.edgesSupportEnabled) {
-      sections.push(
-        {
-          id: 'edges',
-          name: 'edge.edge-instances',
-          fullName: 'edge.edge-instances',
-          type: 'link',
-          path: '/edgeManagement/instances',
-          icon: 'router'
-        }
-      );
+      //sections.push(
+      //  {
+      //    id: 'edges',
+      //    name: 'edge.edge-instances',
+      //    fullName: 'edge.edge-instances',
+      //    type: 'link',
+      //    path: '/edgeManagement/instances',
+      //    icon: 'router'
+      //  }
+      //);
     }
     sections.push(
       {
