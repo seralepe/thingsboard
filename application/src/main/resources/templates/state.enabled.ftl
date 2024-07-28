@@ -22,7 +22,7 @@
 <head>
 	<meta name="viewport" content="width=device-width"/>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<title>TheNextD - Api Usage State</title>
+	<title>TheNextD - Estado de uso de API</title>
 
 
 	<style type="text/css">
