@@ -20,7 +20,7 @@
 <head>
 <meta name="viewport" content="width=device-width" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Thingsboard - Account Activation</title>
+<title>TheNextD - Activación de Cuenta</title>
 
 
 <style type="text/css">
@@ -83,17 +83,17 @@ background-color: #f6f6f6;
 							<meta itemprop="name" content="Confirm Email" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;" /><table width="100%" cellpadding="0" cellspacing="0" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">								
 								<tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
 									<td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #348eda; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-										<h2>Activate your Thingsboard account</h2>
+										<h2>Active su cuenta</h2>
 									</td>
 								</tr>
 								<tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
 									<td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-										To confirm your email address and choose a password, just click the button below. The link will expire in ${activationLinkTtlInHours} hours.
+										Para confirmar su dirección de correo y crear una nueva clave, haga clic en el siguiente enlace. El enlace va a expirar en ${activationLinkTtlInHours} horas.
 									</td>
 								</tr>
 								<tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
 									<td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-										We may need to send you critical information about our service and it is important that we have an accurate email address.
+										Es posible que necesitemos enviarle información crítica sobre nuestro servicio y es importante que tengamos una dirección de correo electrónico precisa.
 									</td>
 								</tr>
 								<tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
@@ -103,7 +103,7 @@ background-color: #f6f6f6;
 								</tr>
 								<tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
 									<td class="content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-										&mdash; The Thingsboard
+										&mdash; TheNextD
 									</td>
 								</tr></table></td>
 							</tr>
@@ -111,7 +111,7 @@ background-color: #f6f6f6;
 				<div class="footer" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;">
 					<table width="100%" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
 						<tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-							<td class="aligncenter content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0 0 20px;" align="center" valign="top">This email was sent to <a href="mailto:${targetEmail}" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; color: #999; text-decoration: underline; margin: 0;">${targetEmail}</a> by Thingsboard.</td>
+							<td class="aligncenter content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0 0 20px;" align="center" valign="top">Este correo fue enviado a <a href="mailto:${targetEmail}" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; color: #999; text-decoration: underline; margin: 0;">${targetEmail}</a> por TheNextD.</td>
 						</tr>
 					</table>
 				</div>
